@@ -1,0 +1,27 @@
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\appsettings.json
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\model homework.exe
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\model homework.deps.json
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\model homework.runtimeconfig.json
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\model homework.dll
+C:\Users\Toshiba\source\repos\model homework\model homework\bin\Debug\net6.0\model homework.pdb
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.AssemblyInfoInputs.cache
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.AssemblyInfo.cs
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.csproj.CoreCompileInputs.cache
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.RazorAssemblyInfo.cache
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.RazorAssemblyInfo.cs
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets\msbuild.model homework.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets\msbuild.build.model homework.props
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.model homework.props
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.model homework.props
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\scopedcss\bundle\model homework.styles.css
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.dll
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\refint\model homework.dll
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.pdb
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\model homework.genruntimeconfig.cache
+C:\Users\Toshiba\source\repos\model homework\model homework\obj\Debug\net6.0\ref\model homework.dll
